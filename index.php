@@ -13,13 +13,13 @@
  			margin: 0 auto;
  		}
  		.picture {
- 			width: 50px;
+ 			width: 70px;
  			float: left;
- 			height: 50px;
+ 			height: 70px;
 
  		}
  		.menu {	
- 			width: 50%;
+ 			width: 70%;
  			float: right;		
  			bottom: 100px;
  			margin: 0 auto;

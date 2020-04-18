@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>ATN's Application</title>
+  <title>Minh Duc and NTL</title>
  </head>
  <body>
  	<style type="text/css">
@@ -19,7 +19,7 @@
 
  		}
  		.menu {	
- 			width: 70%;
+ 			width: 100%;
  			float: right;		
  			bottom: 100px;
  			margin: 0 auto;
@@ -30,7 +30,7 @@
  			margin:0 auto;
  		}
  	</style>
- <h1>THIS IS DEMO OF ATN'S APPLICATION</h1>
+ <h1>ASM APP</h1>
  
  <div id="content">
  	<div class="picture">

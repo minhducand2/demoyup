@@ -5,7 +5,7 @@
  <body>
  	<style type="text/css">
  		body{
- 			background:pink;
+ 			background:green;
  		}
 
  		#content {
@@ -34,7 +34,7 @@
  
  <div id="content">
  	<div class="picture">
- 	<img src="https://png.pngtree.com/png-clipart/20190118/ourlarge/pngtree-cartoon-cute-image-surprised-surprise-png-image_462278.jpg">
+ 	<img src="https://imgur.com/TvWi8hJ.jpg">
  	</div>
  	<div class="menu">
  	<h2>SOME DEMO FUNCTIONS:</h2>
